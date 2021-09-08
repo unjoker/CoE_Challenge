@@ -1,0 +1,14 @@
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\bin\Debug\netcoreapp3.1\CoE_Challenge.exe
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\bin\Debug\netcoreapp3.1\CoE_Challenge.deps.json
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\bin\Debug\netcoreapp3.1\CoE_Challenge.runtimeconfig.json
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\bin\Debug\netcoreapp3.1\CoE_Challenge.runtimeconfig.dev.json
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\bin\Debug\netcoreapp3.1\CoE_Challenge.dll
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\bin\Debug\netcoreapp3.1\CoE_Challenge.pdb
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\obj\Debug\netcoreapp3.1\CoE_Challenge.csproj.AssemblyReference.cache
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\obj\Debug\netcoreapp3.1\CoE_Challenge.AssemblyInfoInputs.cache
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\obj\Debug\netcoreapp3.1\CoE_Challenge.AssemblyInfo.cs
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\obj\Debug\netcoreapp3.1\CoE_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\obj\Debug\netcoreapp3.1\CoE_Challenge.dll
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\obj\Debug\netcoreapp3.1\CoE_Challenge.pdb
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\obj\Debug\netcoreapp3.1\CoE_Challenge.genruntimeconfig.cache
+C:\Users\Max.Cervantes\RiderProjects\CoE_Challenge\CoE_Challenge\obj\Debug\netcoreapp3.1\CoE_Challenge.GeneratedMSBuildEditorConfig.editorconfig
