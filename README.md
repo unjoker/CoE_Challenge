@@ -12,6 +12,7 @@ A kata to practice OOP principles
 
 ## restrictions: 
 * no more than 5 lines per method
+* no getters/setters
 
 Please apply the OOP tenets: Encapsulation, Polymorphism, 
 Abstraction and Inheritance as you see fit to make this code
